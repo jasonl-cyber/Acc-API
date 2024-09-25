@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Decode Based64/1.0.0": {
+        "runtime": {
+          "Decode Based64.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decode Based64/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

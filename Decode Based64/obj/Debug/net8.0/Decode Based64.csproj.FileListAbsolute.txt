@@ -1,0 +1,14 @@
+C:\Users\TP\Documents\Decode Based64\bin\Debug\net8.0\Decode Based64.exe
+C:\Users\TP\Documents\Decode Based64\bin\Debug\net8.0\Decode Based64.deps.json
+C:\Users\TP\Documents\Decode Based64\bin\Debug\net8.0\Decode Based64.runtimeconfig.json
+C:\Users\TP\Documents\Decode Based64\bin\Debug\net8.0\Decode Based64.dll
+C:\Users\TP\Documents\Decode Based64\bin\Debug\net8.0\Decode Based64.pdb
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\Decode Based64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\Decode Based64.AssemblyInfoInputs.cache
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\Decode Based64.AssemblyInfo.cs
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\Decode Based64.csproj.CoreCompileInputs.cache
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\Decode Based64.dll
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\refint\Decode Based64.dll
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\Decode Based64.pdb
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\Decode Based64.genruntimeconfig.cache
+C:\Users\TP\Documents\Decode Based64\obj\Debug\net8.0\ref\Decode Based64.dll

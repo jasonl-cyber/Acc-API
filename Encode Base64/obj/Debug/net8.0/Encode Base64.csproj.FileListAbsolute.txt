@@ -1,0 +1,14 @@
+C:\Users\TP\Documents\Encode Base64\bin\Debug\net8.0\Encode Base64.exe
+C:\Users\TP\Documents\Encode Base64\bin\Debug\net8.0\Encode Base64.deps.json
+C:\Users\TP\Documents\Encode Base64\bin\Debug\net8.0\Encode Base64.runtimeconfig.json
+C:\Users\TP\Documents\Encode Base64\bin\Debug\net8.0\Encode Base64.dll
+C:\Users\TP\Documents\Encode Base64\bin\Debug\net8.0\Encode Base64.pdb
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\Encode Base64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\Encode Base64.AssemblyInfoInputs.cache
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\Encode Base64.AssemblyInfo.cs
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\Encode Base64.csproj.CoreCompileInputs.cache
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\Encode Base64.dll
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\refint\Encode Base64.dll
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\Encode Base64.pdb
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\Encode Base64.genruntimeconfig.cache
+C:\Users\TP\Documents\Encode Base64\obj\Debug\net8.0\ref\Encode Base64.dll
